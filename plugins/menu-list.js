@@ -235,7 +235,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
 ┗━━━━━━━━━━━━━━━⬣`,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "𝚂𝙸𝙻𝙰𝙷𝙺𝙰𝙽 𝙿𝙸𝙻𝙸𝙷 𝙼𝙴𝙽𝚄 𝙳𝙸 𝙱𝙰𝚆𝙰𝙷",
+            footerText: "𝚂𝙸𝙻𝙰𝙷𝙺𝙰𝙽 𝙿𝙸𝙻𝙸𝙷 𝙼𝙴𝙽𝚄 𝙳𝙸 𝙱𝙰𝚆𝙰𝙷 ",
             mtype: 'listMessage',
             sections: [
               {
@@ -417,7 +417,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
            hydratedButtons: [{
             urlButton: {
                displayText: 'MY WEBSITE',
-               url: 'https://Hyzerr.github.io/'
+               url: 'http://surl.li/dijcc'
              }
 
            },
